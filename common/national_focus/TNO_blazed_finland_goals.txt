@@ -10,7 +10,7 @@ focus_tree = {
 	default = no
 	focus = {
 		id = FIN_intro_start
-		#icon =  
+		icon = FIN_intro_start
 		x = 12
 		y = 0
 		cost = 5
@@ -24,7 +24,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_economy_start
-		#icon =  
+		icon = GFX_FIN_economy_start 
 		x = 2
 		y = 2
 		cost = 5
@@ -75,7 +75,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_focus_on_suburbs_too
-		#icon =  
+		icon = FIN_focus_on_suburbs
 		x = 0
 		y = 4
 		cost = 5
@@ -102,7 +102,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_expand_Helsinki_Shipyard 
-		#icon =  
+		icon = FIN_expand_Helsinki_Shipyard
 		x = 0
 		y = 5
 		cost = 5
@@ -127,7 +127,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_expand_Port_of_Turku
-		#icon =  
+		icon = FIN_expand_Port_of_Turku 
 		x = 0
 		y = 6
 		cost = 5
@@ -276,7 +276,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_construct_vaasa_industrial_complex
-		#icon = 
+		icon = FIN_construct_vaasa_industrial_complex
 		x = 2
 		y = 6
 		cost = 5
@@ -338,7 +338,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_encourage_people_to_mechanize_agriculture
-		#icon = 
+		icon = FIN_encourage_people_to_mechanize_agriculture
 		x = 4
 		y = 5
 		cost = 5
@@ -355,7 +355,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_begin_operation_of_tampere_paper_mill
-		#icon = 
+		icon = FIN_begin_operation_of_tampere_paper_mill
 		x = 4
 		y = 6
 		cost = 5
@@ -373,7 +373,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_develop_Aland
-		#icon = 
+		icon = FIN_develop_Aland
 		x = 1
 		y = 7
 		cost = 5
@@ -403,7 +403,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_invest_in_Onega
-		#icon = 
+		icon = FIN_invest_in_Onega
 		x = 3
 		y = 7
 		cost = 5
@@ -428,7 +428,7 @@ focus_tree = {
 
 	focus = {
 		id = FIN_development_will_continue
-		#icon = 
+		icon = FIN_development_will_continue 
 		x = 2
 		y = 8
 		cost = 5
@@ -450,7 +450,7 @@ focus_tree = {
 	#外交ツリー
 	focus = {
 		id = FIN_look_outward
-		#icon =  
+		icon = FIN_look_outward 
 		x = 8
 		y = 2
 		cost = 5
@@ -532,7 +532,7 @@ focus_tree = {
 
 	focus = {
 		id = FIN_Expand_Baltic_Sea_Route
-		#icon = 
+		icon = FIN_Expand_Baltic_Sea_Route
 		x = 7
 		y = 5
 		cost = 5
@@ -551,7 +551,7 @@ focus_tree = {
 
 	focus = {
 		id = FIN_Expand_Port_of_Murmansk
-		#icon = 
+		icon = FIN_Expand_Port_of_Murmansk
 		x = 9
 		y = 5
 		cost = 5
@@ -568,7 +568,7 @@ focus_tree = {
 
 	focus = {
 		id = FIN_Go_for_Volkshalle
-		#icon = 
+		icon = FIN_Go_for_Volkshalle
 		x = 7
 		y = 6
 		cost = 5
@@ -586,7 +586,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_Pursue_Light_of_Freedom
-		#icon = 
+		icon = FIN_Pursue_Light_of_Freedom
 		x = 9
 		y = 6
 		cost = 5
@@ -602,7 +602,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_Germania_Conference
-		#icon = 
+		icon = FIN_Germania_Conference
 		x = 7
 		y = 7
 		cost = 5
@@ -620,7 +620,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_Edinburgh_Conference
-		#icon = 
+		icon = FIN_Edinburgh_Conference
 		x = 9
 		y = 7
 		cost = 5
@@ -637,7 +637,7 @@ focus_tree = {
 	#政治ツリー
 	focus = {
 		id = FIN_save_democracy
-		#icon = 
+		icon = FIN_save_democracy
 		x = 15
 		y = 2
 		cost = 5
@@ -651,7 +651,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_crush_red_star
-		#icon = 
+		icon = FIN_crush_red_star
 		x = 14
 		y = 3
 		cost = 5
@@ -666,7 +666,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_bring_the_bear_under_control
-		#icon = 
+		icon = FIN_bring_the_bear_under_control
 		x = 16
 		y = 3
 		cost = 5
@@ -681,7 +681,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_propagate_our_accomplishment
-		#icon = 
+		icon = FIN_propagate_our_accomplishment
 		x = 15
 		y = 4
 		cost = 5
@@ -695,7 +695,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_in_economy
-		#icon = 
+		icon = FIN_in_economy
 		x = 14
 		y = 5
 		cost = 5
@@ -709,7 +709,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_in_diplomacy
-		#icon = 
+		icon = FIN_in_diplomacy
 		x = 14
 		y = 6
 		cost = 5
@@ -723,7 +723,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_to_urban
-		#icon = 
+		icon = FIN_to_urban
 		x = 16
 		y = 5
 		cost = 5
@@ -737,7 +737,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_to_rural
-		#icon = 
+		icon = FIN_to_rural
 		x = 16
 		y = 6
 		cost = 5
@@ -751,7 +751,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_our_democracy_was_saved
-		#icon = 
+		icon = FIN_our_democracy_was_saved
 		x = 15
 		y = 7
 		cost = 5
@@ -766,7 +766,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_in_order_to_integrate
-		#icon = 
+		icon = FIN_in_order_to_integrate
 		x = 22
 		y = 2
 		cost = 5
@@ -780,7 +780,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_defence_against_Russia
-		#icon = 
+		icon = FIN_defence_against_Russia
 		x = 20
 		y = 3
 		cost = 5
@@ -838,7 +838,7 @@ focus_tree = {
 	}
 	focus = {
 		id =FIN_take_precautions
-		#icon = 
+		icon = FIN_take_precautions
 		x = 20
 		y = 6
 		cost = 5
@@ -852,7 +852,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_in_sacrifice_to_unification
-		#icon = 
+		icon = FIN_in_sacrifice_to_unification
 		x = 24
 		y = 3
 		cost = 5
@@ -866,7 +866,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_but_grant_them_autonomy
-		#icon = 
+		icon = FIN_but_grant_them_autonomy
 		x = 24
 		y = 4
 		cost = 5
@@ -880,7 +880,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_encourage_people_to_migrate
-		#icon = 
+		icon = FIN_encourage_people_to_migrate
 		x = 24
 		y = 5
 		cost = 5
@@ -894,7 +894,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_Murmansk_quasi_state
-		#icon = 
+		icon = FIN_Murmansk_quasi_state
 		x = 24
 		y = 6
 		cost = 5
@@ -908,7 +908,7 @@ focus_tree = {
 	}
 	focus = {
 		id = FIN_strong_unity
-		#icon = 
+		icon = FIN_strong_unity
 		x = 22
 		y = 7
 		cost = 5
