@@ -1,0 +1,20 @@
+﻿characters = {
+	MPF_yumjaagiin_tsedenbal = {
+		name = MPF_yumjaagiin_tsedenbal
+		portraits = {
+			civilian = { large = "gfx/leaders/MPF/Portrait_Mongolia_Yuumjaagiin_Tsedenbal.dds" }
+		}
+		country_leader = {
+			desc = "POLITICS_YUMJAAGIIN_TSEDENBAL_DESC"
+			ideology = communist_bolshevism_subtype
+			expire = "1999.1.1.1"
+			id = -1
+		}
+		country_leader = {
+			desc = "POLITICS_YUMJAAGIIN_TSEDENBAL_DESC"
+			ideology = despotism_civilian_dictatorship_subtype
+			expire = "1999.1.1.1"
+			id = -1
+		}
+	}
+}

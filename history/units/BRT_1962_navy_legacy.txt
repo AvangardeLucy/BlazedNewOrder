@@ -1,0 +1,35 @@
+﻿units = {
+  fleet = {
+    name = "Breton Fleet"
+    naval_base = "3552"
+    task_force = {
+      name = "Coastal Defense Squadron"
+      location = 3552
+      ship = {
+        name = "Alarc'h"
+        pride_of_the_fleet = yes
+        definition = destroyer
+        start_experience_factor = 0.5
+        equipment = {
+          destroyer_1 = {
+            amount = 1
+            owner = BRT
+            version_name = "Zerstörer 1944"
+          }
+        }
+      }
+      ship = {
+        name = "Erminig"
+        definition = frigate
+        start_experience_factor = 0.25
+        equipment = {
+          frigate_1 = {
+            amount = 1
+            owner = BRT
+            version_name = "F-Class Escort Ship"
+          }
+        }
+      }
+    }
+  }
+}
